@@ -5,3 +5,4 @@ I'm Bartosz. I'm a full stack engineer, and I have successfully taken multiple p
 I created products like [consultly.com](https://consultly.com), [monito.dev](https://monito.dev), and more. You can learn more about me by visiting [my personal website](https://jarocki.me).
 
 I'm currently looking for new opportunities. If you'd like to work with me, [write me an email](mailto:bartosz.jarocki@hey.com).
+Experiment: you can work with me by subscribing to my services [at outlier.agency](https://outlier.agency) website.
