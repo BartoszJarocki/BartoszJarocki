@@ -9,7 +9,7 @@ I'm a full-stack engineer passionate about taking products from 0 to 1. With ove
 
 ## 🛠️ Notable Side Projects
 - [Consultly](https://consultly.com) - A platform for scheduling and managing consultations
-- [Monito](https://monito.dev) - Monitoring and error tracking for developers
+- [Monito](https://monito.dev) - Chrome extension that records everything happening in web application
 - [Minimalist CV](https://cv.jarocki.me) - Minimalist, printable CV for developers built with Next.js
 - [Personal Website](https://jarocki.me) - My open-source portfolio built with Next.js
 
