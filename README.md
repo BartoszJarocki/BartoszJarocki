@@ -1,5 +1,24 @@
-### Hi there 👋
+# Hi there 👋 
 
-I'm Bartosz. I'm a full-stack engineer, and I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Nowadays I mostly work with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies all around the world.
+I'm a full-stack engineer passionate about taking products from 0 to 1. With over 8 years of remote work experience, I've successfully led teams and created impactful products for companies worldwide.
 
-I created products like [consultly.com](https://consultly.com), [monito.dev](https://monito.dev), and more. You can learn more about me by visiting [my personal website](https://jarocki.me). If you want to work with me, send me an [email](mailto:bartosz.jarocki@hey.com).
+## 🚀 Skills
+- TypeScript, React, Node.js, GraphQL
+- Next.js, Remix, Tailwind CSS
+- Team leadership and product development
+
+## 🛠️ Notable Side Projects
+- [Consultly](https://consultly.com) - A platform for scheduling and managing consultations
+- [Monito](https://monito.dev) - Monitoring and error tracking for developers
+- [Minimalist CV](https://cv.jarocki.me) - Minimalist, printable CV for developers built with Next.js
+- [Personal Website](https://jarocki.me) - My open-source portfolio built with Next.js
+
+## 🔭 Currently Working On
+I'm always exploring new ideas and technologies. Check out my [latest projects](https://jarocki.me/creating) to see what I'm currently building.
+
+## 📫 Let's Connect
+- Website: [jarocki.me](https://jarocki.me)
+- Email: [bartosz.jarocki@hey.com](mailto:bartosz.jarocki@hey.com)
+- X: [@BartoszJarocki](https://x.com/BartoszJarocki)
+
+💡 Interested in working together? Feel free to [email me](mailto:bartosz.jarocki@hey.com) or check out my [CV](https://cv.jarocki.me/) for more details about my experience.
