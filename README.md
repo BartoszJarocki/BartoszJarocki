@@ -1,24 +1,27 @@
-# Hi there 👋 
+hey there! i'm bartosz, a full-stack engineer passionate about building products from the ground up. with over 8 years of remote work experience, i've led teams and created impactful solutions for companies around the globe.
 
-I'm a full-stack engineer passionate about taking products from 0 to 1. With over 8 years of remote work experience, I've successfully led teams and created impactful products for companies worldwide.
+## what i do
 
-## 🚀 Skills
-- TypeScript, React, Node.js, GraphQL
-- Next.js, Remix, Tailwind CSS
-- Team leadership and product development
+- mostly develop with js/ts, react, node.js with all sorts of apis (graphql, trpc, rest)
+- lead teams and drive product development
 
-## 🛠️ Notable Side Projects
-- [Consultly](https://consultly.com) - A platform for scheduling and managing consultations
-- [Monito](https://monito.dev) - Chrome extension that records everything happening in web application
-- [Minimalist CV](https://cv.jarocki.me) - Minimalist, printable CV for developers built with Next.js
-- [Personal Website](https://jarocki.me) - My open-source portfolio built with Next.js
+## side projects
 
-## 🔭 Currently Working On
-I'm always exploring new ideas and technologies. Check out my [latest projects](https://jarocki.me/creating) to see what I'm currently building.
+- [consultly](https://consultly.com) - a platform for scheduling and managing consultations
+- [monito](https://monito.dev) - chrome extension that records everything happening in web applications
+- [minimalist cv](https://cv.jarocki.me) - a clean, printable cv for developers built with next.js
+- [personal website](https://jarocki.me) - my open-source portfolio showcasing my work
 
-## 📫 Let's Connect
-- Website: [jarocki.me](https://jarocki.me)
-- Email: [bartosz.jarocki@hey.com](mailto:bartosz.jarocki@hey.com)
-- X: [@BartoszJarocki](https://x.com/BartoszJarocki)
+check out my [portfolio](https://jarocki.me/creating) to see more.
 
-💡 Interested in working together? Feel free to [email me](mailto:bartosz.jarocki@hey.com) or check out my [CV](https://cv.jarocki.me/) for more details about my experience.
+## current focus
+
+i'm always exploring new ideas and technologies. check out my [latest projects](https://jarocki.me/creating) to see what i'm currently working on.
+
+## want to connect?
+
+- website: [jarocki.me](https://jarocki.me)
+- email: [bartosz.jarocki@hey.com](mailto:bartosz.jarocki@hey.com)
+- twitter: [@bartoszjarocki](https://twitter.com/bartoszjarocki)
+
+interested in collaboration? feel free to [drop me an email](mailto:bartosz.jarocki@hey.com) or take a look at my [cv](https://cv.jarocki.me/) for more details about my experience
