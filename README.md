@@ -12,9 +12,9 @@ hey there! i'm bartosz, a full-stack engineer passionate about building products
 ## side projects
 
 - [monito](https://monito.dev) - chrome extension that records everything happening in web applications
-- [minimalist cv](https://cv.jarocki.me) - oss, clean, printable cv for developers
+- [minimalist cv](https://github.com/BartoszJarocki/cv) - oss, clean, printable cv for developers
 - [minimal](https://github.com/BartoszJarocki/minimal) - oss, minimalist calendars and habit trackers generator
-- [personal website](https://jarocki.me) - oss, my personal website
+- [personal website](https://github.com/BartoszJarocki/jarocki.me) - oss, my personal website
 
 check out my [portfolio](https://jarocki.me/creating) to see more.
 
