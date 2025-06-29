@@ -5,18 +5,17 @@ hey there! i'm bartosz, a full-stack engineer passionate about building products
 - mostly develop with js/ts, react, node.js with all sorts of apis (graphql, trpc, rest)
 - lead teams and drive product development
 
+## work
+
+- currently working at [motion](https://motionapp.com) on platform allowing marketing specialists to build their own AI workflows
+
 ## side projects
 
-- [consultly](https://consultly.com) - a platform for scheduling and managing consultations
 - [monito](https://monito.dev) - chrome extension that records everything happening in web applications
 - [minimalist cv](https://cv.jarocki.me) - a clean, printable cv for developers built with next.js
 - [personal website](https://jarocki.me) - my open-source portfolio showcasing my work
 
 check out my [portfolio](https://jarocki.me/creating) to see more.
-
-## current focus
-
-i'm always exploring new ideas and technologies. check out my [latest projects](https://jarocki.me/creating) to see what i'm currently working on.
 
 ## want to connect?
 
