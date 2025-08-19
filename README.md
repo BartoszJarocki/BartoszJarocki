@@ -15,6 +15,7 @@ hey there! i'm bartosz, a full-stack engineer passionate about building products
 - [minimalist cv](https://github.com/BartoszJarocki/cv) - oss, clean, printable cv for developers
 - [minimal](https://github.com/BartoszJarocki/minimal) - oss, minimalist calendars and habit trackers generator
 - [personal website](https://github.com/BartoszJarocki/jarocki.me) - oss, my personal website
+- [tzc](https://github.com/BartoszJarocki/tz) - oss, simple timezone converter
 
 check out my [portfolio](https://jarocki.me/creating) to see more.
 
