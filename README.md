@@ -12,6 +12,7 @@ hey there! i'm bartosz, a full-stack engineer passionate about building products
 ## side projects
 
 - [monito](https://monito.dev) - chrome extension that records everything happening in web applications
+- [43frames](https://www.43frames.com) - AI image/video generation studio
 - [minimalist cv](https://github.com/BartoszJarocki/cv) - oss, clean, printable cv for developers
 - [minimal](https://github.com/BartoszJarocki/minimal) - oss, minimalist calendars and habit trackers generator
 - [personal website](https://github.com/BartoszJarocki/jarocki.me) - oss, my personal website
