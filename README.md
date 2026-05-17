@@ -1,29 +1,7 @@
-hey there! i'm bartosz, a full-stack engineer passionate about building products from the ground up. with over 8 years of remote work experience, i've led teams and created impactful solutions for companies around the globe.
+building AI at [motion](https://motionapp.com) — [we're hiring!](https://motionapp.com/careers)
 
-## what i do
+exploring what software engineering looks like when agents do most of the typing.
 
-- mostly develop with js/ts, react, node.js with all sorts of apis (graphql, trpc, rest)
-- lead teams and drive product development
+side projects: [monito.dev](https://monito.dev), [43frames.com](https://www.43frames.com), [useminimal.com](https://useminimal.com), [tzc.app](https://tzc.app).
 
-## work
-
-- currently working at [motion](https://motionapp.com) on platform allowing marketing specialists to build their own AI workflows
-
-## side projects
-
-- [monito](https://monito.dev) - chrome extension that records everything happening in web applications
-- [43frames](https://www.43frames.com) - AI image/video generation studio
-- [minimalist cv](https://github.com/BartoszJarocki/cv) - oss, clean, printable cv for developers
-- [minimal](https://github.com/BartoszJarocki/minimal) - oss, minimalist calendars and habit trackers generator
-- [personal website](https://github.com/BartoszJarocki/jarocki.me) - oss, my personal website
-- [tzc](https://github.com/BartoszJarocki/tz) - oss, simple timezone converter
-
-check out my [portfolio](https://jarocki.me/creating) to see more.
-
-## want to connect?
-
-- website: [jarocki.me](https://jarocki.me)
-- email: [bartosz.jarocki@hey.com](mailto:bartosz.jarocki@hey.com)
-- twitter: [@bartoszjarocki](https://twitter.com/bartoszjarocki)
-
-interested in collaboration? feel free to [drop me an email](mailto:bartosz.jarocki@hey.com) or take a look at my [cv](https://cv.jarocki.me/) for more details about my experience
+[jarocki.me](https://jarocki.me) · [@bartoszjarocki](https://twitter.com/bartoszjarocki) · [bartosz.jarocki@hey.com](mailto:bartosz.jarocki@hey.com)
