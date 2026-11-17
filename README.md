@@ -1,6 +1,6 @@
-building AI at [motion](https://motionapp.com) — [we're hiring!](https://motionapp.com/careers)
+building ai at [motion](https://motionapp.com) — [we're hiring!](https://motionapp.com/careers)
 
-exploring what software engineering looks like when agents do most of the typing.
+exploring what software engineering looks like when agents do all the typing.
 
 side projects: [monito.dev](https://monito.dev), [43frames.com](https://www.43frames.com), [useminimal.com](https://useminimal.com), [tzc.app](https://tzc.app).
 
